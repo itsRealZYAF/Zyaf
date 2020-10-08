@@ -29,4 +29,5 @@ if __name__ == "__main__":
     bio = client.bio()
     for i in socials:
         print(i)
-    print(bio)```
+    print(bio)
+```
