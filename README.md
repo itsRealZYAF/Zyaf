@@ -7,6 +7,9 @@ class itsRealZYAF:
         for item in socials:
             if item == 'twitter':
                 self.user_socials.append('twitter : itsRealZYAF')
+                
+            elif item == 'instagram':
+                self.user_socials.append('instagram : zyafhack_')
 
             elif item == 'discord':
                 self.user_socials.append('discord : @Zyaf#0001')
@@ -25,7 +28,7 @@ class itsRealZYAF:
 
 if __name__ == "__main__":
     client = itsRealZYAF()
-    socials = client.socials(['twitter', 'discord'])
+    socials = client.socials(['twitter', 'instagram', 'discord'])
     bio = client.bio()
     for i in socials:
         print(i)
