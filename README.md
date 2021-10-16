@@ -20,7 +20,7 @@ class itsRealZYAF:
 
     def bio(self):
         name      : str = "Zyaf"
-        age       : str = "17"
+        age       : str = "18"
         birthday  : str = "08/10/2003"
         status    : list = ["student", "developer"]
         languages : list = ["french", "english", "spanish"]
