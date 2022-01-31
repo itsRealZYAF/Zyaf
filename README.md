@@ -9,7 +9,7 @@ class itsRealZYAF:
                 self.user_socials.append('discord : @Zyaf#0001')
                 
             elif item == 'instagram':
-                self.user_socials.append('instagram : zyafhack_')
+                self.user_socials.append('instagram : zyaf2wolfy')
                 
             if item == 'twitter':
                 self.user_socials.append('twitter : itsRealZYAF')
